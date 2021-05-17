@@ -1,0 +1,9 @@
+{
+	"name": "dryrunsouthridgeadf",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5f838ed6-2ea6-448d-9955-30c9ab797ed7",
+		"tenantId": "495e06c3-3091-4129-8792-a1aec4a6cd52"
+	}
+}
